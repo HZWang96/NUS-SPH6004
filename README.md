@@ -1,6 +1,5 @@
-# NUS-SPH6004
-This repository contains the source code for all SPH6004 assignments.
-## Assignment 1
+# NUS-SPH6004-Assignment 1
+This repository contains the source code for NUS SPH6004 Assignment 1.
 
 The `assignment1` folder contains the dataset, source code, and the conda environment containing all the Python packages used to complete the assignment.
 
